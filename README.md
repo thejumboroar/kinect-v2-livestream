@@ -6,3 +6,5 @@ Using [PyKinect2](https://github.com/Kinect/PyKinect2) and cv2.
 1. pip install comtypes
 1. pip install pykinect2
 1. pip install opencv-python
+## License
+MIT License
